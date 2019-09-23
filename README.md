@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Matt.
+I've just started at Bournemouth university and I hope I'll do well!
